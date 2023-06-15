@@ -3,7 +3,7 @@ import React from "react";
 import { FaFacebookF, FaInstagram } from "react-icons/fa";
 import { BsTwitter, BsYoutube } from "react-icons/bs";
 import Company_Logo from '../Assets/Company_Logo.png';
-import '/home/surbhimotwani/task_surbhi/src/App.css';
+// import 'App.css';
 
 
 const Footer = () => {

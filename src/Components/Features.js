@@ -1,5 +1,5 @@
 import React from "react";
-import '/home/surbhimotwani/task_surbhi/src/App.css'
+// import 'App.css'
 const Ellipse = () => {
   return (
     <div>

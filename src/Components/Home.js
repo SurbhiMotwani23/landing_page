@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import background from '../Assets/background.png';
 // import './App.css';
-import '/home/surbhimotwani/task_surbhi/src/App.css';
+// import 'App.css';
 
 
 const Home = () => {

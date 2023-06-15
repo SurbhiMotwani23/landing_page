@@ -20,7 +20,7 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import MenuItem from '@mui/material/MenuItem';
 import Menu from '@mui/material/Menu';
 // import './App.css';
-import '/home/surbhimotwani/task_surbhi/src/App.css';
+// import 'App.css';
 
 
 const Navbar = () => {

@@ -1,6 +1,6 @@
 import React from 'react';
 // import './App.css';
-import '/home/surbhimotwani/task_surbhi/src/App.css';
+// import 'App.css';
 
 
 const App = () => {

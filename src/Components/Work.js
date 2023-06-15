@@ -5,7 +5,7 @@ import three from "../Assets/three.png";
 import four from "../Assets/four.png";
 import fifth from "../Assets/fifth.png";
 // import './App.css'
-import '/home/surbhimotwani/task_surbhi/src/App.css';
+// import 'App.css';
 
 
 const Work = () => {
