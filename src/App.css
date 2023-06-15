@@ -1,0 +1,330 @@
+.ellipseone {
+  position: absolute;
+  width: 24rem;
+  height: 24rem;
+  left: 2rem;
+  top: 20rem;
+  border: 2px solid #ccc;
+}
+
+.ellipsetwo {
+  position: absolute;
+  width: 18rem;
+  height: 18rem;
+  left: 4rem;
+  top: 24rem;
+  border: 2px solid #ccc;
+}
+
+.ellipsethree {
+  position: absolute;
+  width: 11rem;
+  height: 11rem;
+  left: 6rem;
+  top: 32rem;
+  border: 2px solid #ccc;
+}
+
+/* NAVBAR */
+
+.Polygon-1 {
+  width: 41.66667%;
+  height: 50%;
+  transform: rotate(-318.69deg);
+  background-color: #fff;
+}
+
+.TeamFlow {
+  width: 10rem;
+  height: 3rem;
+  margin-left: 1rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 5xl;
+  font-weight: 600;
+  color: #fff;
+}
+
+.Product {
+  width: 6rem;
+  height: 2rem;
+  margin-right: 1rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #fff;
+}
+
+.Solution {
+  width: 6rem;
+  height: 2rem;
+  margin-right: 1rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #fff;
+}
+
+.Enterprise {
+  width: 8rem;
+  height: 2rem;
+  margin-left: 2rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #fff;
+}
+
+.Pricing {
+  width: 5rem;
+  height: 2rem;
+  margin-left: 2.5rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #fff;
+}
+
+.Login {
+  width: 4rem;
+  height: 2rem;
+  margin-top: 5rem;
+  margin-right: 0.25rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #777;
+}
+
+.Rectangle-2 {
+  width: 12rem;
+  height: 4rem;
+  margin-bottom: 4rem;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  background-color: #ffca1d;
+}
+
+.Sign-Up {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 4xl;
+  font-weight: 600;
+  color: #000;
+}
+
+.Rectangle-20 {
+  width: 24rem;
+  height: 4rem;
+  margin-right: 16rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+
+.-Welcome-to-TeamFlow {
+  width: 20rem;
+  height: 2rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 3xl;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+  color: #777;
+}
+
+.Work-the-way-that-works-for-you {
+  width: 44rem;
+  height: 11rem;
+  margin-top: 1rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 7xl;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.1em;
+  color: #fff;
+}
+
+.Line-2 {
+  width: 4rem;
+  height: 0.125rem;
+  margin-left: auto;
+  background-color: #38b2ac;
+}
+
+.Create-Build-Collaborate-and-ship-products-very-faster {
+  width: 40rem;
+  height: 6rem;
+  margin-top: 4rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 6xl;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.2em;
+  color: #fff;
+}
+
+.Rectangle-4 {
+  width: 16rem;
+  height: 6rem;
+  margin-bottom: 1rem;
+  padding: 4rem;
+  border-radius: 9999px;
+  background-color: #eee;
+}
+
+.Ellipse-3 {
+  width: 18rem;
+  height: 20rem;
+  padding: 3rem 4rem;
+  background-color: #ccc;
+}
+
+.Update-Contract-Agreement {
+  width: 20rem;
+  height: 2rem;
+  margin-bottom: 0.5rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 6xl;
+  font-weight: 700;
+  color: #00a3ff;
+}
+
+.Mark-Anderson {
+  width: 10rem;
+  height: 2rem;
+  margin-bottom: 0.5rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 5xl;
+  font-weight: 600;
+  color: #7f00ff;
+}
+
+.Hulu {
+  width: 7rem;
+  height: 6rem;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
+}
+
+.BBC {
+  width: 10rem;
+  height: 7rem;
+  margin: 0 1rem;
+}
+
+.Universal {
+  width: 8rem;
+  height: 6rem;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
+}
+
+.Adobe {
+  width: 8.5rem;
+  height: 6rem;
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+}
+
+.See-why-over-100000-teams-choose-TeamFlowcom {
+  width: 44rem;
+  height: 6rem;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 5xl;
+  font-weight: 700;
+  line-height: 1.125;
+  letter-spacing: 0.08em;
+  color: #777;
+}
+
+.Rectangle-36 {
+  width: 1300px;
+  height: 977px;
+  margin-right: 47.9px;
+  padding: 77px 88px 870px 663px;
+  background-color: #4b4aef;
+}
+
+.one,
+.two,
+.three,
+.four,
+.fifth {
+  width: 180px;
+  height: 180px;
+  margin: 0 10px;
+  border-radius: 20px;
+}
+
+.View_All {
+  width: 230px;
+  height: 70px;
+  flex-grow: 0;
+  margin: 100px 166px 0 286px;
+  padding: 19px 65px 18px 66px;
+  border-radius: 10px;
+  background-color: #ffca1d;
+}
+
+.Integrate-with-your-existing-tools-in-a-few-clicks {
+  width: 767px;
+  height: 142px;
+  flex-grow: 0;
+  margin: 0 253px 54px 6px;
+  font-family: 'NunitoSans';
+  font-size: 48px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: 0.96px;
+  text-align: center;
+  color: #565656;
+}
+
+.Integrate-with-your-existing-tools-in-a-few-clicks .text-style-1 {
+  font-weight: bold;
+  color: #ffca1d;
+}
+
+.Integrate-with-your-existing-tools-in-a-few-clicks .text-style-2 {
+  font-weight: bold;
+}
+
+.Get-Started {
+  width: 137px;
+  height: 33px;
+  flex-grow: 0;
+  font-family: 'NunitoSans';
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.27;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2c2c2c;
+}
+
+.Rectangle-2 {
+  width: 230px;
+  height: 70px;
+  flex-grow: 0;
+  margin: 11.5px 260px 0 0;
+  padding: 19px 47px 18px 46px;
+  border-radius: 10px;
+  background-color: #ffca1d;
+}
+
+.footer-wrapper {
+  flex-direction: column;
+}
+
+.footer-section-two {
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.footer-section-columns {
+  margin: 1rem 0rem;
+}
